@@ -1,6 +1,7 @@
 {
  "category": "Domains",
  "charts": [],
+ "content": "[{\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Documents\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Reports and Analytics\",\"col\":4}}]",
  "creation": "2021-08-03 15:46:41.730961",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -11,7 +12,9 @@
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
+ "public": 1,
  "label": "Property MS",
+ "title": "Property MS",
  "links": [
   {
    "hidden": 0,
@@ -276,7 +279,7 @@
    "type": "Link"
   }
  ],
- "modified": "2022-05-16 16:58:39.426498",
+ "modified": "2022-11-24 14:25:39.426498",
  "modified_by": "Administrator",
  "module": "Property Management Solution",
  "name": "Property MS",

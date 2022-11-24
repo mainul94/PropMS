@@ -250,3 +250,4 @@ scheduler_events = {
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "propms.event.get_events"
 # }
+required_apps = ['https://github.com/mainul94/csf_tz']
